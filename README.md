@@ -1,6 +1,6 @@
 A simple music player application built using HTML and CSS and BootStrap.
 
-Only raw concepts of HTML and CSS are used here to build this webpage (No libraries or Frameworks). 
+Only raw concepts of HTML and CSS are used here to build this webpage.
 
 1- Index.html file contains the basic structure of the page with all the elements, classess and parent-child relationships.
 
